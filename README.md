@@ -15,8 +15,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![](./design/desktop-design.jpg)
-![](./design/mobile-design.jpg)
+![](design\active-states.jpg)
+![](design\destkop-design.jpg)
 ![](./design/desktop-design.jpg)
 
 ### Links
